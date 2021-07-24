@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch charr",
+            "request": "launch",
+            "mainClass": "charr",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch single",
+            "request": "launch",
+            "mainClass": "single",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch sorting",
+            "request": "launch",
+            "mainClass": "sorting",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertionsort",
+            "request": "launch",
+            "mainClass": "insertionsort",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch index",
+            "request": "launch",
+            "mainClass": "index",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch shuffling",
+            "request": "launch",
+            "mainClass": "shuffling",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch minimumstring",
+            "request": "launch",
+            "mainClass": "minimumstring",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearch1",
+            "request": "launch",
+            "mainClass": "BinarySearch1",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quickosrt1",
+            "request": "launch",
+            "mainClass": "Quickosrt1",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Partiton",
+            "request": "launch",
+            "mainClass": "Partiton",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quicksort",
+            "request": "launch",
+            "mainClass": "Quicksort",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mergesort1",
+            "request": "launch",
+            "mainClass": "Mergesort1",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mergesort",
+            "request": "launch",
+            "mainClass": "Mergesort",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergetwoarray",
+            "request": "launch",
+            "mainClass": "mergetwoarray",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch binarysearch",
+            "request": "launch",
+            "mainClass": "binarysearch",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubblesort",
+            "request": "launch",
+            "mainClass": "bubblesort",
+            "projectName": "java_119b7dde"
+        },
+        {
+            "type": "java",
+            "name": "Launch selectionsort",
+            "request": "launch",
+            "mainClass": "selectionsort",
+            "projectName": "java_119b7dde"
+        }
+    ]
+}
